@@ -37,10 +37,55 @@ module.exports = {
             
             {
               text: '目录',
+              ariaLabel: '目录',
               items: [
-                { text: '编程', link: '/guide/' },
-                { text: '笔记', link: '/guide/' },
-                { text: '杂文', link: '/guide/' },
+                {
+                  text: '考研',
+                  items: [
+                    {
+                      text: '英语',
+                      link: '/kaoyan/english/'
+                    },
+                    {
+                      text: '社会学',
+                      link: '/kaoyan/sociology/'
+                    }
+                  ]
+                },
+                {
+                  text: '编程',
+                  items: [
+                    {
+                      text: 'Swift',
+                      link: '/biancheng/swift/'
+                    },
+                    {
+                      text: 'Vue',
+                      link: '/biancheng/vue/'
+                    },
+                    {
+                      text: 'FAQ',
+                      link: '/biancheng/faq/'
+                    },
+                    {
+                      text: '术语',
+                      link: '/biancheng/miscellaneous/'
+                    }
+                  ]
+                },
+                {
+                  text: '杂文',
+                  items: [
+                    {
+                      text: '后感',
+                      link: '/other/hougan/'
+                    },
+                    {
+                      text: '句迷',
+                      link: '/other/jumi/'
+                    }
+                  ]
+                }
               ]
             },
 

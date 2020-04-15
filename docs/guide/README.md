@@ -1,8 +1,7 @@
 ---
-title: 从0到1部署 VuePress 到 GitHub Pages
-sidebar: auto
+title: 笔记目录
 ---
-# 从0到1部署 VuePress 到 GitHub Pages
+# 笔记目录 :notebook_with_decorative_cover: 
 
 ### 学习笔记 <Badge text="beta" type="warning"/> <Badge text="预览版"/>
 
