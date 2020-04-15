@@ -3,7 +3,7 @@ home: true
 heroImage: /img/notebook.png
 heroText: 学习笔记
 tagline: 保持初学者的心态
-actionText: 温故知新 →
+actionText: 进入笔记 →
 actionLink: /guide/
 features:
 - title: 望文生义
