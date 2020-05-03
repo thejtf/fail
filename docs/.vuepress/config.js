@@ -10,7 +10,7 @@ module.exports = {
         lastUpdated: '最后更新', // string | boolean
         sidebar: 'auto', // 自动生成侧边栏
         smoothScroll: true, // 页面滚动效果
-        plugins: ['@vuepress/back-to-top'], //返回顶部
+  
 
         // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
         repo: 'thejtf/note',
@@ -40,15 +40,15 @@ module.exports = {
               ariaLabel: '目录',
               items: [
                 {
-                  text: '考研',
+                  text: '学习',
                   items: [
                     {
                       text: '英语',
-                      link: '/kaoyan/english/'
+                      link: '/study/english/'
                     },
                     {
                       text: '社会学',
-                      link: '/kaoyan/sociology/'
+                      link: '/study/sociology/'
                     }
                   ]
                 },
@@ -74,14 +74,14 @@ module.exports = {
                   ]
                 },
                 {
-                  text: '杂文',
+                  text: '读书',
                   items: [
                     {
-                      text: '后感',
+                      text: '读后感',
                       link: '/other/hougan/'
                     },
                     {
-                      text: '句迷',
+                      text: '句子迷',
                       link: '/other/jumi/'
                     }
                   ]
