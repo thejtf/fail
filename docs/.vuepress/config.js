@@ -42,10 +42,10 @@ module.exports = {
                 {
                   text: '学习',
                   items: [
-                    {
-                      text: '英语',
-                      link: '/study/english/'
-                    },
+                   // {
+                   //  text: '英语',
+                   //  link: '/study/english/'
+                   // },
                     {
                       text: '社会学',
                       link: '/study/sociology/'
@@ -60,16 +60,12 @@ module.exports = {
                       link: '/biancheng/swift/'
                     },
                     {
-                      text: 'Vue',
-                      link: '/biancheng/vue/'
+                      text: 'Python',
+                      link: '/biancheng/python/'
                     },
                     {
                       text: 'FAQ',
                       link: '/biancheng/faq/'
-                    },
-                    {
-                      text: '术语',
-                      link: '/biancheng/miscellaneous/'
                     }
                   ]
                 },
@@ -77,12 +73,8 @@ module.exports = {
                   text: '读书',
                   items: [
                     {
-                      text: '读后感',
-                      link: '/other/hougan/'
-                    },
-                    {
-                      text: '句子迷',
-                      link: '/other/jumi/'
+                      text: '书单',
+                      link: '/read/booklist/'
                     }
                   ]
                 }
