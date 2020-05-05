@@ -64,7 +64,7 @@ module.exports = {
                       link: '/biancheng/python/'
                     },
                     {
-                      text: 'Git',
+                      text: 'Git笔记',
                       link: '/biancheng/git/'
                     }
                   ]

@@ -12,7 +12,7 @@ title: 笔记目录
 ## :orange_book:编程
 ###  [Swift](/biancheng/swift/)
 ###  [Python](/biancheng/python/)
-### [FAQ](/biancheng/faq/)
+### [Git笔记](/biancheng/git/)
 
 
 ## :blue_book:读书
