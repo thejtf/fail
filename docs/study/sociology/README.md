@@ -6,6 +6,4 @@
 #### [单元1.课程及参考书籍简介](/study/sociology/ntu/socunit1/)
 
 #### [单元2.社会学的研究范围与观点](/study/sociology/ntu/socunit2/)
-
-
-
+  

@@ -17,3 +17,6 @@ title: 笔记目录
 
 ## :blue_book:读书
 ### [书单](/read/booklist/)
+
+## :dart:计划
+### [考研](/plan/kaoyan/)

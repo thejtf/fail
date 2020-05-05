@@ -5,7 +5,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/img/favicon.ico' }]
       ],
-    
+      plugins: ['@vuepress/back-to-top'],
     themeConfig: {
         lastUpdated: '最后更新', // string | boolean
         sidebar: 'auto', // 自动生成侧边栏
@@ -77,9 +77,19 @@ module.exports = {
                       link: '/read/booklist/'
                     }
                   ]
+                },
+                {
+                  text: '计划',
+                  items: [
+                    {
+                      text: '考研',
+                      link: '/plan/kaoyan/'
+                    }
+                  ]
                 }
               ]
             },
+            
 
             { text: '博客', link: 'https://jtf.im/' },
           ],
