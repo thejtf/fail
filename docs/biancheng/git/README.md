@@ -207,7 +207,7 @@ git显示形如`274\232\350\256\256\346\200\273\347\273\223.png`的乱码
 
 :::
 
-::: tip 解决办法
+::: tip 解决办法 
 
 ```bash
 git config --global core.quotepath false
