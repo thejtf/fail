@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: /img/notebook.png
-heroText: 我的日记
+heroImage: /img/green-book1.png
+heroText: 我的笔记
 tagline: 至拙出至巧
 actionText: 进入目录 →
 actionLink: /guide/
@@ -12,5 +12,5 @@ features:
   details: 有识则不敢一得自足
 - title: 三要有恒
   details: 有恒则断无不成之事
-footer: MIT Licensed | Copyright © 2020-2021 Jtf
+footer: MIT Licensed | Copyright © 2021 Jtf
 ---

@@ -1,9 +1,9 @@
 ---
 title: 目录
 ---
-# 目录 :notebook_with_decorative_cover: 
+# 目录 :green_book: 
 
-#### 日记指南 <Badge text="beta" type="warning"/> <Badge text="V0.001"/>
+#### 日记指南 <Badge text="beta" type="warning"/> <Badge text="V0.02"/>
 
 ## :spiral_calendar: 日记
 ###  [2021年](/dairy/2021/) 
