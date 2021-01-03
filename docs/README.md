@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/green-book1.png
+heroImage: /img/man.png
 heroText: 我的笔记
 tagline: 至拙出至巧
 actionText: 进入目录 →

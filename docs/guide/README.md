@@ -1,7 +1,7 @@
 ---
 title: 目录
 ---
-# 目录 :green_book: 
+# :book: 目录 
 
 #### 日记指南 <Badge text="beta" type="warning"/> <Badge text="V0.02"/>
 

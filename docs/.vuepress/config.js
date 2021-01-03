@@ -31,7 +31,7 @@ module.exports = {
         // 默认为 "Edit this page"
         editLinkText: '在 GitHub 上编辑此页',
 
-        logo: '/img/green-book1.png', //导航栏logo
+        logo: '/img/emoji.png', //导航栏logo
         nav: [
             { text: '首页', link: '/' },
             
