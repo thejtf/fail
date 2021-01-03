@@ -40,6 +40,19 @@ module.exports = {
               ariaLabel: '目录',
               items: [
                 {
+                  text: '日记',
+                  items: [
+                   // {
+                   //  text: '英语',
+                   //  link: '/study/english/'
+                   // },
+                    {
+                      text: '2021',
+                      link: '/dairy/2021/'
+                    }
+                  ]
+                },
+                {
                   text: '学习',
                   items: [
                    // {
