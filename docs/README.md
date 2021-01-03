@@ -3,7 +3,7 @@ home: true
 heroImage: /img/notebook.png
 heroText: 天放日记
 tagline: 至拙出至巧
-actionText: 进入笔记 →
+actionText: 进入日记 →
 actionLink: /guide/
 features:
 - title: 一要有志

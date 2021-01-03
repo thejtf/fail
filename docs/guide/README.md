@@ -3,7 +3,10 @@ title: 笔记目录
 ---
 # 日记目录 :notebook_with_decorative_cover: 
 
-#### 日记指南 <Badge text="beta" type="warning"/> <Badge text="预览版"/>
+#### 日记指南 <Badge text="beta" type="warning"/> <Badge text="测试版"/>
+
+## :closed_book:日记
+###  [2021年](/dairy/2021/) 
 
 ## :closed_book:学习
 ###  [社会学](/study/sociology/) 
