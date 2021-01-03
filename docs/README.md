@@ -1,16 +1,16 @@
 ---
 home: true
 heroImage: /img/notebook.png
-heroText: 学习笔记
-tagline: 保持初学者的心态
+heroText: 天放日记
+tagline: 至拙出至巧
 actionText: 进入笔记 →
 actionLink: /guide/
 features:
-- title: 望文生义
-  details: 初能望文生义，死记硬背，可小成。
-- title: 举一反三
-  details: 进能变通运用，巧舌如簧，有一得。
-- title: 知行合一
-  details: 终能深入浅出，知行合一，方大就。
-footer: MIT Licensed | Copyright © 2020-present Jtf
+- title: 一要有志
+  details: 有志则断不甘为下流
+- title: 二要有识
+  details: 有识则不敢一得自足
+- title: 三要有恒
+  details: 有恒则断无不成之事
+footer: MIT Licensed | Copyright © 2020-2021 Jtf
 ---
