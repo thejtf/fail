@@ -48,7 +48,7 @@ module.exports = {
                    // },
                     {
                       text: '2021',
-                      link: '/dairy/2021/'
+                      link: '/diary/2021/'
                     }
                   ]
                 },

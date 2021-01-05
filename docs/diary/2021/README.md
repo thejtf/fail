@@ -1,7 +1,7 @@
 # :spiral_calendar: 生活日记
 #### 给岁月以文明，而不是给文明以岁月。
 
-## 日记 <Badge text="茶余饭后" type="warning"/> <Badge text="diary"/>
+## 日记 <Badge text="茶余偶谈" type="warning"/> <Badge text="diary"/>
 ### 2021年01月
 #### [1月1日](/diary/2021/0101/)
 #### [1月2日](/diary/2021/0102/)
