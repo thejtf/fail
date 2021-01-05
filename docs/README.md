@@ -3,7 +3,7 @@ home: true
 heroImage: /img/man.png
 heroText: 我的笔记
 tagline: 至拙出至巧
-actionText: 进入目录 →
+actionText: 进入笔记 →
 actionLink: /guide/
 features:
 - title: 一要有志
