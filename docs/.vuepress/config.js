@@ -77,6 +77,10 @@ module.exports = {
                       link: '/biancheng/python/'
                     },
                     {
+                      text: '树莓派',
+                      link: '/biancheng/raspberry/'
+                    },
+                    {
                       text: 'Git笔记',
                       link: '/biancheng/git/'
                     }

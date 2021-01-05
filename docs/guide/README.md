@@ -15,7 +15,7 @@ title: 目录
 ## :orange_book: 编程
 ### [Swift](/biancheng/swift/)
 ### [Python](/biancheng/python/)
-### [Linux](/biancheng/linux/)
+### [树莓派](/biancheng/raspberry/)
 ### [Git笔记](/biancheng/git/)
 
 
