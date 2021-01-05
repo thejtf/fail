@@ -6,7 +6,7 @@ title: 目录
 #### 日记指南 <Badge text="beta" type="warning"/> <Badge text="V0.02"/>
 
 ## :spiral_calendar: 日记
-###  [2021年](/dairy/2021/) 
+###  [2021年](/diary/2021/) 
 
 ## :closed_book: 学习
 ###  [社会学](/study/sociology/) 
