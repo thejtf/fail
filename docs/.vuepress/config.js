@@ -1,6 +1,6 @@
 module.exports = {
     base: '/note/',   
-    title: 'Jtf‘s Note',
+    title: 'Jopus Note',
     description: '生活杂记',
     head: [
         ['link', { rel: 'icon', href: '/img/favicon.ico' }]
