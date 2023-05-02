@@ -108,7 +108,7 @@ module.exports = {
             },
             
 
-            { text: '博客', link: 'https://jtf.im/' },
+            { text: '博客', link: 'https://jopus.cn/' },
           ],
       }
   }
